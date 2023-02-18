@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-// Change the path to your desktop or any other folder 
+// Change the path to your desktop's or any other folder 
 const PATH = "";
 
 const desktopPath = path.join(PATH);
